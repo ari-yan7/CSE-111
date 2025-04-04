@@ -20,7 +20,7 @@ public class Bird
     }
     else if (h==down)
     {
-      System.out.println(name+" has flown down "+down+" feet and landed");
+      System.out.println(name+" has flown down "+down+" feet and landed.");
     }
   }
   public void makeNoise()
